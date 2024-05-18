@@ -1,0 +1,6 @@
+langchain_chroma 
+langchain_openai 
+langchain 
+dotenv 
+youtube_transcript_api 
+streamlit
